@@ -1,6 +1,6 @@
 ---
-home: false
-footer: MIT Licensed | Copyright © 2019-present
+home：false
+footer：MIT Licensed | Copyright © 2019-present
 ---
 
 ## 为什么需要规范?

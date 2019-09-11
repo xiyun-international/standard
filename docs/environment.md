@@ -8,3 +8,33 @@
 - [vue-devtools](https://github.com/vuejs/vue-devtools) 开发 Vue 应用时的辅助工具；  
 - [octo-tree](https://github.com/ovity/octotree) 方便你查看 GitHub 项目结构
 - [octo-linker](https://github.com/OctoLinker/OctoLinker) 查看 GitHub 文件时可以一键打开引入文件的路径；
+
+## VSCode 快捷键
+
+### 左边栏快捷键
+
+`cmd + k + s` -> `keybinds.json`
+
+添加以下配置
+```json
+{
+  "key": "cmd+1",
+  "command": "workbench.view.explorer"
+},
+{
+  "key": "cmd+2",
+  "command": "workbench.view.search"
+},
+{
+  "key": "cmd+3",
+  "command": "workbench.view.scm"
+},
+{
+  "key": "cmd+4",
+  "command": "workbench.view.debug"
+},
+{
+  "key": "cmd+5",
+  "command": "workbench.view.extensions"
+},
+```

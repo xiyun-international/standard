@@ -5,6 +5,7 @@ module.exports = {
     docsDir: "docs",
     sidebar: [
         ["/", "1. 介绍"],
+        ["/development", "2. 开发工作流规范 (基于 Git)"],
     ],
   }
 };

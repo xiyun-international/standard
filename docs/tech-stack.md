@@ -14,7 +14,11 @@
 项目是基于 [Vue](https://cn.vuejs.org/v2/guide/index.html) 框架进行开发的，UI 统一使用 [Ant-Design-Vue](https://vue.ant.designh) 为了提升开发时的效率，我们还自研了[禧云生态](https://xiyun-international.github.io/xy/)。
 
 ## 样式
-CSS 的命名规范，我们遵循 [BEM](https://en.bem.info/methodology/quick-start/)；新项目的预处理器统一用 [Less](http://lesscss.cn/)。
+- 编码风格规范，主要使用的是 [Airbnb](https://github.com/airbnb/javascript)；
+- 语法检查要通过 [ESLint](https://eslint.org) 的验证；
+- 方法的命名规范，遵循 [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) 标准；
+- CSS 的命名规范，遵循 [BEM](https://en.bem.info/methodology/quick-start/)；
+- 新项目的预处理器统一用 [Less](http://lesscss.cn/)。
 
 ## 测试
 项目的测试工具，使用 [vue-test-utils](https://vue-test-utils.vuejs.org/zh/)，使用[Jest](https://jestjs.io/docs/en/tutorial-react)。

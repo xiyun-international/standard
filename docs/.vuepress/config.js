@@ -10,6 +10,7 @@ module.exports = {
       ["/tech-stack", "3. 技术栈规范"],
       ["/project", "4. 项目规范"],
       ["/environment", "5. 打造舒适的开发环境"],
+      ["/share", "6. 分享计划"],
     ]
   }
 };

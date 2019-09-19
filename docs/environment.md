@@ -11,7 +11,7 @@
 
 ## VSCode 快捷键
 
-### 左边栏快捷键
+### 左边栏快捷键，定制化
 
 `cmd + k + s` -> `keybinds.json`
 

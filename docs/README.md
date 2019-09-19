@@ -3,6 +3,9 @@ home：false
 footer：MIT Licensed | Copyright © 2019-present
 ---
 
+# 介绍
+为了降低沟通成本，禧云需要建立前端规范，
+
 ## 为什么需要规范?
 降低新成员融入团队的成本；  
 提高开发效率以及团队协作效率，降低沟通成本；  

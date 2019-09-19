@@ -27,4 +27,12 @@
 - **src/**：源代码目录；
 - **tests/**：单元测试目录，参照 Jest 规范, __tests__目录通常和被测试的模块在同一个父目录下；
 
-
+## 发布流程规范
+- 代码开发、联调、变更
+- 提交代码变更到远程版本库
+- 通过 [CE](https://www.cnblogs.com/zhengyun_ustc/p/ce.html) 提交测试
+- 测试完成提升 package.json 中的版本
+- 生成 CHANGELOG
+- 提交 package.json 和 CHANGELOG.md 文件
+- 打上 Tag
+- 推送

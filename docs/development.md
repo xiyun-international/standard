@@ -17,5 +17,12 @@
 1. [Git-Flow 工作流](https://github.com/ivan-94/git-guide/blob/master/branch/feature.md)
 2. [GitHub-Fork 工作流](https://github.com/ivan-94/git-guide/blob/master/branch/fork.md)
 
+## 提交信息规范
+一个好的提交信息，可以提高项目的整体质量，所以至少具有下面这些优点：
+
+- 格式统一的提交信息有助于自动化生成 CHANGELOG；  
+- 版本库不只是存放代码的仓库，它记录项目的开发日志，它应该要清晰表达这次提交的做了什么。这些记录应该可以帮助后来者快速地学习和回顾代码，也应该方便其他协作者 Review 你的代码；  
+- 规范化提交信息可以促进提交者提交有意义的、粒度合适的“提交”。提交者要想好要怎么描述这个提交，这样被动促进了他们去把控提交的粒度；
+
 
 

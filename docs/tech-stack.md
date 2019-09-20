@@ -19,6 +19,7 @@
 - 方法的命名规范，遵循 [Clean Code Javascript](https://github.com/ryanmcdermott/clean-code-javascript) 标准；
 - 项目的代码需要使用 [JSDocs](http://www.dba.cn/book/jsdoc/) 注释规范；
 - CSS 的命名规范，遵循 [BEM](https://en.bem.info/methodology/quick-start/)；预处理器统一用 [Less](http://lesscss.cn/)。
+- CSS 底层样式，我们借鉴了 [Salt UI](https://salt-ui.github.io/components/style) 开发了一个 Less 版本的底层样式。
 
 ## 测试
 项目的测试工具，使用 [vue-test-utils](https://vue-test-utils.vuejs.org/zh/)，具体使用方式，参考 [Jest](https://jestjs.io/docs/en/tutorial-react) 官方指南。

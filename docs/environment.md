@@ -38,3 +38,6 @@
   "command": "workbench.view.extensions"
 },
 ```
+
+## VSCode 插件
+- [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker) 英文单词拼写错误检查插件；这个插件是从 [vue-next](https://github.com/vuejs/vue-next/blob/master/.vscode/settings.json) 项目接触到的，可以有效避免拼写错误等低级错误。

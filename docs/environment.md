@@ -40,5 +40,7 @@
 ```
 
 ## VSCode 插件
+- [xiyun](https://marketplace.visualstudio.com/items?itemName=xiyun.xiyun) 可以快速生成符合禧云生态的标准页面。
+- [JavaScript (ES6) code snippets](https://marketplace.visualstudio.com/items?itemName=xabikos.JavaScriptSnippets) 可以给文件(js、ts、vue、jsx、tsx) 增加统一标准的 Snippets。
 - [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker) 英文单词拼写错误检查插件；这个插件是从 [vue-next](https://github.com/vuejs/vue-next/blob/master/.vscode/settings.json) 项目接触到的，可以有效避免拼写错误等低级错误。
 - [Regex Previewer](https://marketplace.visualstudio.com/items?itemName=chrmarti.regex) 正则表达式辅助工具，在写正则表达式时右侧能实时的看到匹配效果。

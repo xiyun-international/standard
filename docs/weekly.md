@@ -6,6 +6,6 @@
 
 模板下载链接：
 
-[周报模板.numbers](./weekly/周报模板.numbers)
+[周报模板.numbers](./weekly/周报模板.numbers?raw=true)
 
-[周报模板.xlsx](./weekly/周报模板.xlsx)
+[周报模板.xlsx](./weekly/周报模板.xlsx?raw=true)

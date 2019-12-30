@@ -6,6 +6,6 @@
 
 模板下载链接：
 
-[周报模板.numbers](https://f2.xiyunerp.com/%E5%91%A8%E6%8A%A5%E6%A8%A1%E6%9D%BF.numbers)
+[周报模板.numbers](./weekly/周报模板.numbers)
 
-[周报模板.xlsx](https://f2.xiyunerp.com/%E5%91%A8%E6%8A%A5%E6%A8%A1%E6%9D%BF.xlsx)
+[周报模板.xlsx](./weekly/周报模板.xlsx)

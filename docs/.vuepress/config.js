@@ -9,8 +9,9 @@ module.exports = {
       ["/development", "2. 开发工作流规范 (基于 Git)"],
       ["/tech-stack", "3. 技术栈规范"],
       ["/project", "4. 项目规范"],
-      ["/share", "5. 分享计划"],
-      ["/environment", "6. 打造舒适的开发环境"],
+      ["/weekly", "5. 周报制度"],
+      ["/share", "6. 分享计划"],
+      ["/environment", "7. 打造舒适的开发环境"],
     ]
   }
 };

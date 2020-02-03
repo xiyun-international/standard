@@ -3,6 +3,7 @@ module.exports = {
   description: "禧云信息前端规范",
   base: "/standard/",
   themeConfig: {
+    repo: "xiyun-international/standard",
     docsDir: "docs",
     sidebar: [
       ["/", "1. 介绍"],

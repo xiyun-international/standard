@@ -5,8 +5,8 @@
 
 ## 周报模板下载
 
-[周报模板.numbers](./template/周报模板.numbers)  
-[周报模板.xlsx](./template/周报模板.xlsx)
+[周报模板.numbers](https://github.com/xiyun-international/standard/blob/master/docs/template/%E5%91%A8%E6%8A%A5%E6%A8%A1%E6%9D%BF.numbers?raw=true)  
+[周报模板.xlsx](https://github.com/xiyun-international/standard/blob/master/docs/template/%E5%91%A8%E6%8A%A5%E6%A8%A1%E6%9D%BF.xlsx?raw=true)
 ![](./template/weekly.png)
 
 ### 如何高效整理每日工作
@@ -19,6 +19,6 @@ GTD 的五个核心原则是：收集、整理、组织、回顾、执行。
 
 ## 日报模板下载
 
-[每日工作模板.numbers](./template/每日工作模板.numbers?raw=true)  
-[每日工作模板.xlsx](./template/每日工作模板.xlsx?raw=true)  
+[每日工作模板.numbers](https://github.com/xiyun-international/standard/blob/master/docs/template/%E6%AF%8F%E6%97%A5%E5%B7%A5%E4%BD%9C%E6%A8%A1%E6%9D%BF.numbers?raw=true)  
+[每日工作模板.xlsx](https://github.com/xiyun-international/standard/blob/master/docs/template/%E6%AF%8F%E6%97%A5%E5%B7%A5%E4%BD%9C%E6%A8%A1%E6%9D%BF.xlsx?raw=true)  
 ![](./template/day.png)
